@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b4/Fishes_Mada.JPG");
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+}
+
+input {
+    margin: 5px;
+}
+
+.correct {
+    border-color: green;
+}
+
+.wrong {
+    border-color: red;
+}
